@@ -1,4 +1,4 @@
-# 📡 OBS Stream Optimizer 2026 — Encoding Booster & Quality Toolkit
+# 📡📡 OBS Stream Optimizer 2026 — Encoding Booster & Quality Toolkit
 
 [![GitHub Stars](https://img.shields.io/github/stars/Alexantros341/OBS-Stream-Optimizer)](https://github.com/Alexantros341/OBS-Stream-Optimizer)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
