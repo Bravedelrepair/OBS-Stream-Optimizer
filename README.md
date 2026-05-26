@@ -137,4 +137,4 @@ MIT License — shared for educational purposes only.
 If this toolkit made your **OBS Studio** streams smoother and better 🔥 — drop a ⭐!
 It helps other streamers find the **best OBS optimization tools** in 2026. 📡🎬
 
----
+--- 
